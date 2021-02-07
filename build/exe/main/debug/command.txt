@@ -1,0 +1,11 @@
+set size 1,1
+set xlabel "x distance in km"
+set ylabel "y distance in km"
+set zlabel "z altitude in km"
+set xrange [-25:1025]
+set yrange [-25:1025]
+set zrange [0:800]
+set xyplane relative 0
+set view equal xyz
+splot "mountain.txt"  with lines 
+pause -1

@@ -1,0 +1,11 @@
+/DEBUG
+/OUT:D:\CS361\mountain\build\exe\test\mountainTest.exe
+/NOLOGO
+"/LIBPATH:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\lib\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\um\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\ucrt\x64"
+D:\CS361\mountain\build\obj\test\4pgx7hk29mt9h49l7gfnjftzn\main_test.obj
+D:\CS361\mountain\build\obj\for-test\main\debug\main.obj
+D:\CS361\mountain\build\obj\for-test\main\debug\point.obj
+D:\CS361\mountain\build\obj\for-test\main\debug\side.obj
+D:\CS361\mountain\build\obj\for-test\main\debug\triangle.obj

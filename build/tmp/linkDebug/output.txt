@@ -1,0 +1,4 @@
+See file:///D:/CS361/mountain/build/tmp/linkDebug/output.txt for all output for linkDebug.
+linking mountain.exe successful.
+
+Finished linkDebug, see full log file:///D:/CS361/mountain/build/tmp/linkDebug/output.txt.
